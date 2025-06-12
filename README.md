@@ -17,3 +17,6 @@ This module is responsible for the **Extract** phase in the ETL pipeline for str
 - `kafka-python` library (not `kafka`)
 
 
+
+
+# Report: [Link](https://docs.google.com/document/d/13DEzX0oV1MKGAN49JgAlZaQzvNxMX2xm/edit)
